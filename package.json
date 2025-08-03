@@ -1,0 +1,40 @@
+{
+  "name": "one-dark-cool-theme",
+  "displayName": "One Dark Cool Theme",
+  "description": "A soft and beautiful dark color theme",
+  "version": "1.0.0",
+  "publisher": "minkul",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark-theme",
+    "one",
+    "dark",
+    "cool"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Cool Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark-cool-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minkul/vscode-one-dark-cool-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/minkul/vscode-one-dark-cool-theme/issues"
+  },
+  "homepage": "https://github.com/minkul/vscode-one-dark-cool-theme/blob/master/README.md",
+  "license": "MIT"
+}
