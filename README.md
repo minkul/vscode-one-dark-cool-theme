@@ -1,15 +1,19 @@
 # One Dark Cool Theme
 
 **One Dark Cool** is a sleek, elegant, and soft dark theme for [Visual Studio Code](https://code.visualstudio.com/).  
+
 Inspired by the classic One Dark theme, it’s crafted for developers who prefer a gentle, low-contrast palette that’s easy on the eyes—perfect for long hours of focused coding.
 
-> Soft contrast · Beautiful syntax highlighting · Inspired by One Dark · Comfortable for extended use
+> Soft contrast - Beautiful syntax highlighting - Inspired by One Dark - Comfortable for extended use
+
+[One Dark Cool Theme – Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=minkul.one-dark-cool-theme)
 
 [Icon created by juicy_fish - Flaticon](https://www.flaticon.com/authors/juicy-fish)
 
 ## Preview
 
 Experience how **One Dark Cool** renders beautifully across popular programming languages.  
+
 See the screenshots below to get a feel for the theme in action:
 
 ## C++
