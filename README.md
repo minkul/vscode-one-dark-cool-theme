@@ -17,34 +17,34 @@ Experience how **One Dark Cool** renders beautifully across popular programming 
 See the screenshots below to get a feel for the theme in action:
 
 ## C++
-![One Dark Cool Theme C++ Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-cpp-preview.svg)
+![One Dark Cool Theme C++ Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-cpp-preview.png)
 
 ## CSS
-![One Dark Cool Theme CSS Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-css-preview.svg)
+![One Dark Cool Theme CSS Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-css-preview.png)
 
 ## Elixir
-![One Dark Cool Theme Elixir Preview](https://github.com/minkul/vscode-one-dark-cool-theme/raw/refs/heads/master/screenshots/one-dark-cool-theme-ex-preview.svg)
+![One Dark Cool Theme Elixir Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-ex-preview.png)
 
 ## Go
-![One Dark Cool Theme Go Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-go-preview.svg)
+![One Dark Cool Theme Go Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-go-preview.png)
 
 ## HTML
-![One Dark Cool Theme HTML Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-html-preview.svg)
+![One Dark Cool Theme HTML Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-html-preview.png)
 
 ## Java
-![One Dark Cool Theme Java Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-java-preview.svg)
+![One Dark Cool Theme Java Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-java-preview.png)
 
 ## JavaScript
-![One Dark Cool Theme JavaScript Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-js-preview.svg)
+![One Dark Cool Theme JavaScript Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-js-preview.png)
 
 ## PHP
-![One Dark Cool Theme PHP Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-php-preview.svg)
+![One Dark Cool Theme PHP Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-php-preview.png)
 
 ## Python
-![One Dark Cool Theme Python Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-py-preview.svg)
+![One Dark Cool Theme Python Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-py-preview.png)
 
 ## Ruby
-![One Dark Cool Theme Ruby Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-rb-preview.svg)
+![One Dark Cool Theme Ruby Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-rb-preview.png)
 
 ## Rust
-![One Dark Cool Theme Rust Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-rs-preview.svg)
+![One Dark Cool Theme Rust Preview](https://raw.githubusercontent.com/minkul/vscode-one-dark-cool-theme/refs/heads/master/screenshots/one-dark-cool-theme-rs-preview.png)
